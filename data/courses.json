@@ -1,0 +1,22 @@
+[
+    {
+        "id": "01",
+        "name": "Yoga & Meditation",
+        "img": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=499&q=80",
+        "description": "Yoga makes our lifestyle healthy and fit from inside. Beside meditation keeps us stress free. Combinations of this 2 steps together will make you live long. From this course, you will be able to revive yourself newly."
+    },
+  
+    {
+        "id": "02",
+        "name": "Ketogenic Diet",
+        "img": "https://images.unsplash.com/photo-1589960178430-4c300b6a2212?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1376&q=80",
+        "description": "."
+    },
+
+    {
+        "id": "03",
+        "name": "Child Psychology",
+        "img": "https://images.unsplash.com/photo-1589960178430-4c300b6a2212?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1376&q=80",
+        "description": "Yoga makes our lifestyle healthy and fit from inside. Beside meditation keeps us stress free. Combinations of this 2 steps together will make you live long. From this course, you will be able to revive yourself newly."
+    }
+]
