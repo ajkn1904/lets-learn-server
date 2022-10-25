@@ -1,0 +1,18 @@
+[
+    {
+        "id": "01",
+        "name": "IT"
+      },
+    {
+        "id": "02",
+        "name": "Productivity"
+      },
+    {
+        "id": "03",
+        "name": "Lifestyle"
+      },
+    {
+        "id": "04",
+        "name": "All"
+      }
+]
