@@ -2,16 +2,32 @@
     {
         "id": "01",
         "categoryId": "01",
-        "name": "Data Analysis",
+        "name": "Data Analytics",
         "img": "https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=806&q=80",
-        "description": "."
+        "description": "Start a new journey with this Data Analytics course. Achieve your dream job in IT sector.",
+        "outline": {
+            "time": 160,
+            "language": "English",
+            "duration": 90
+        },
+        "ratings": 4.5,
+        "price": 250,
+        "outcome": "1. Data Analytics, 2. Data Visualization, 3. Hypothesis Testing, 4. Statistics."
     },
     {
         "id": "02",
         "categoryId": "01",
         "name": "Artificial Intelligence",
         "img": "https://images.unsplash.com/photo-1591696331111-ef9586a5b17a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDEyfHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60",
-        "description": "."
+        "description": "Start a new journey with this Artificial Intelligence course. Achieve your dream job in IT sector.",
+        "outline": {
+            "time": 180,
+            "language": "English",
+            "duration": 90
+        },
+        "ratings": 4.5,
+        "price": 260,
+        "outcome": "1. Build an AI, 2. Understand the theory behind Artificial Intelligence, 3. Make virtual Self Driving Car, 4. Make an AI to beat game."
     },
 
     {
@@ -19,15 +35,33 @@
         "categoryId": "02",
         "name": "Microsoft Office",
         "img": "https://www.goskills.com/static/images/family/microsoft-office/01-office-family.png",
-        "description": "."
+        "description": "Start a new journey with this Microsoft Office course. From this course, you will be able to make yourself productive.",
+        "outline": {
+            "time": 130,
+            "language": "English",
+            "duration": 30
+        },
+        "ratings": 4.5,
+        "price": 185,
+        "outcome": "1. Learn the essential and advanced Microsoft Office Skill in Excel, Word, PowerPoint, Outlook, Team and Access, 2. Learn practical methods to breakup and recover your excel spreadsheets and never lose data, 3. Effective use autofill and flashfill so you are more productive in MS."
     },
 
     {
         "id": "04",
         "categoryId": "03",
-        "name": "Yoga & Meditation",
+        "name": "Yoga",
         "img": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=499&q=80",
-        "description": "Yoga makes our lifestyle healthy and fit from inside. Beside meditation keeps us stress free. Combinations of this 2 steps together will make you live long. From this course, you will be able to revive yourself newly."
+        "description": "Start a new journey with this Yoga course. From this course, you will be able to revive yourself newly.",
+        "outline": {
+            "time": 175,
+            "language": "English",
+            "duration": 60
+        },
+        "ratings": 4.5,
+        "price": 156,
+        "outcome": "1 Have an excellent understanding of yoga. 2. Improve alignment & posture to reduce the risk of injury. 3. Help to boost up immune system."
+        
+
     },
   
     {
@@ -35,7 +69,16 @@
         "categoryId": "03",
         "name": "Diet & Nutrition",
         "img": "https://images.unsplash.com/photo-1589960178430-4c300b6a2212?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1376&q=80",
-        "description": "."
+        "description": "Start a new journey with this Diet & Nutrition course. From this course, you will be able to learn to lead a healthy life.",
+        "outline": {
+            "time": 160,
+            "language": "English",
+            "duration": 40
+        },
+        "ratings": 4.5,
+        "price": 170,
+        "outcome": "1. Design Diet pans based on your lifestyle, 2. Learn 'Simple Trick' to ensure that yu are taking all the essential vitamins/minerals from your diet, 3. Learn to calculate the Exact Calorie based on the approach your choose."
+     
     },
 
     {
@@ -43,7 +86,15 @@
         "categoryId": "03",
         "name": "Child Psychology",
         "img": "https://images.unsplash.com/photo-1650848200302-22e62d26a75a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
-        "description": "."
+        "description": "Start a new journey with this Child Psychology course. From this course, you will be able to discover child psychology newly.",
+        "outline": {
+            "time": 160,
+            "language": "English",
+            "duration": 30
+        },
+        "ratings": 4.9,
+        "price": 190,
+        "outcome":"1. Understand the main theories in Development Psychology, 2. Understand children's intentions and behavior at different ages of life, 3. Learn why 'unconditional love' is important."
     }
 
 ]
